@@ -13,4 +13,3 @@ My name is Gustavo, and I'm passionate about Javascript and the whole ecosystem 
 - 🌱 I’m currently learning javascript (Nodejs, ReactJS and React Native) 🛢💻📱
 - 👯 I’m looking to collaborate on OpenSource projects or to help the community in any way 🚀
 - 📫 How to reach me: click on any of the badges above and call me to chat 💬
--->
