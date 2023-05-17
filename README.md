@@ -4,9 +4,11 @@
  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 
+<!-- 
 <a href="https://twitter.com/sogustavo_">
  <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" />
 </a>
+-->
 
 <a href="https://www.instagram.com/gustavosoouza">
  <img src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white" />
