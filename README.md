@@ -1,31 +1,27 @@
 # Gustavo Souza
 
-<a href="https://www.linkedin.com/in/eugustavosouza">
- <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-</a>
+<div align="center">
+  <a href="https://linkedin.com/in/eugustavosouza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:iamgustavosouza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
-<!-- 
-<a href="https://twitter.com/sogustavo_">
- <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" />
-</a>
--->
+## Mobile Developer | React Native | TypeScript | Node.js
 
-<a href="https://www.instagram.com/gustavosoouza">
- <img src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white" />
-</a>
+Há 7 anos transformo requisitos em aplicativos que realmente funcionam, do primeiro commit até o usuário final baixando na loja.
 
-<a href="https://www.youtube.com/channel/UCeTKJwTXGYd27fNCP8CsD-w">
- <img src="https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=Youtube&logoColor=white" />
-</a>
+### O que eu faço
+- 📱 **Mobile**: React Native, arquitetura escalável, performance
+- 🚀 **Deploy**: Publicação nas lojas (App Store & Play Store)
+- ⚙️ **DevOps**: CI/CD, automação de builds
+- 🏗️ **Backend**: Node.js, APIs REST
 
-<a href="mailto:gustavo.ifto@gmail.com">
- <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
-</a>
+### Stack principal
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Welcome to my profile 🙋‍♂️
+---
 
-My name is Gustavo, and I'm passionate about Javascript/Typescript and the whole ecosystem around this technology.
-
-- 🌱 I’m currently learning Javascript/Typescript (Nodejs, ReactJS and React Native) 🛢💻📱
-- 👯 I’m looking to collaborate on OpenSource projects or to help the community in any way 🚀
-- 📫 How to reach me: click on any of the badges above and call me to chat 💬
+<div align="center">
+  💬 Aberto a discussões sobre arquitetura mobile, performance e boas práticas
+</div>
