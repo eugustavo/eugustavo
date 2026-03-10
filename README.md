@@ -9,7 +9,6 @@
 
 Há 7 anos transformo requisitos em aplicativos que realmente funcionam, do primeiro commit até o usuário final baixando na loja.
 
-### O que eu faço
 - 📱 **Mobile**: React Native, arquitetura escalável, performance
 - 🚀 **Deploy**: Publicação nas lojas (App Store & Play Store)
 - ⚙️ **DevOps**: CI/CD, automação de builds
